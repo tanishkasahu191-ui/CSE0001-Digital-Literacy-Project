@@ -1,1 +1,5 @@
 
+Task 4: Draft a Professional Email & Etiquette Guide.
+ 
+One significant situation where poor digital communication caused a real problem involved a student who sent a casual, poorly structured email to a potential internship coordinator. The student used an unprofessional email address, omitted a subject line, and used 'text-speak' (slang) in the body of the message. As a result, the coordinator dismissed the application immediately, assuming the student lacked the professionalism required for the workplace.
+To avoid this, the student should have used a formal college email ID and a clear subject line like 'Internship Inquiry – [Name]'. A professional greeting and a structured sign-off would have signaled respect and competence. This scenario highlights that in the digital world, your writing is your first impression. Clear, structured communication isn't just about following rules; it's about building trust and showing that you value the recipient's time. This task taught me that a well-drafted 5-line email is far more effective than a long, disorganized one.
