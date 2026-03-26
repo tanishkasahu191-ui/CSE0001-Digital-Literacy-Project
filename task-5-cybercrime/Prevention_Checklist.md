@@ -1,17 +1,16 @@
+## Stay Safe Online: A Student’s Guide to Cyber-Security
+## UPI 'Golden Rule': Never enter your UPI PIN to receive money. A PIN is only required to send or pay money.
 
-Cybercrime Prevention Checklist
-UPI Safety: Never enter your UPI PIN to receive money. A PIN is only required to send or pay.
+## Verify UPI IDs: Before hitting 'Send', always double-check the recipient's name and UPI ID in the app to avoid 'Wrong Transfer' scams.
 
-Two-Factor Authentication (2FA): Enable 2FA on your Gmail, LinkedIn, and Instagram accounts immediately.
+## The 1930 Helpline: Memorize the national helpline number 1930. Reporting financial fraud within the first "Golden Hour" significantly increases the chances of freezing the scammer's bank account.
 
-The "1930" Helpline: If you are a victim of financial fraud, call 1930 immediately to trigger the "Golden Hour" recovery process.
+## National Cyber Crime Portal: Always report any cyber-harassment or financial fraud at [suspicious link removed].
 
-HTTPS Verification: Before entering any credentials, ensure the website URL starts with https:// and shows a padlock icon.
+## WhatsApp Privacy: Set your 'Profile Photo' and 'About' to 'My Contacts' only to prevent scammers from impersonating you to ask your friends for money.
 
-Public Wi-Fi: Avoid logging into bank accounts or VIT student portals while using open, public Wi-Fi networks.
+## Public Wi-Fi Hygiene: Never log into your VIT Student Portal or banking apps while connected to free public Wi-Fi (like at railway stations or cafes). Use a VPN or your mobile data instead.
 
-Reporting Portal: Report any suspicious activity at cybercrime.gov.in.
+ ## HTTPS Check: Before entering your registration number or password on any site, ensure the URL starts with https:// and has a padlock icon.
 
-Verify UPI IDs: Always double-check the recipient's name and UPI ID before hitting the "Pay" button.
-
-Software Updates: Keep your phone’s operating system and banking apps updated to the latest security patches.
+## 2-Factor Authentication (2FA): Enable 2FA on your Gmail, LinkedIn, and Instagram. This ensures that even if someone knows your password, they cannot log in without the OTP on your phone.
