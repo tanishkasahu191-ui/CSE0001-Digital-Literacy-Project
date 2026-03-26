@@ -1,1 +1,5 @@
+Task 3: Explore Coding & Collaboration Platform
+In Task 3, I explored the intersection of technical skill-building and digital collaboration. For the coding component, I utilized HackerRank to complete a beginner-level challenge. This platform is essential for my growth as an engineer, as it provides a structured way to practice problem-solving and algorithm design.
+For the collaboration component, I developed a Google Form quiz focused on digital literacy. I also linked this form to a Google Sheet to automate response tracking. This exercise demonstrated how cloud-based tools can be used to gather data and collaborate with a large group of peers efficiently.
+I found the Google Form logic simple to set up, but the most interesting part was thinking of questions that would actually challenge my batchmates' knowledge of online safety. One difficulty I faced was ensuring the quiz questions were neither too easy nor too complex. This task taught me that digital literacy isn't just about using tools, but about using them to create value for others.
 
