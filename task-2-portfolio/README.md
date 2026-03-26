@@ -1,1 +1,5 @@
+Task 2: Building a Student Digital Portfolio
 
+For Task 2, I established a foundational digital portfolio across three key platforms: GitHub, LinkedIn, and Stack Overflow. I chose these platforms because they represent the essential 'digital footprint' for a modern engineering student. GitHub serves as my technical repository, LinkedIn as my professional networking hub, and Stack Overflow as a platform for collaborative learning and troubleshooting.
+
+On GitHub, I created a specialized Profile README to introduce myself and my academic goals to the developer community. On LinkedIn, I formalized my academic status by detailing my enrollment at VIT Bhopal University. Setting these up helped me realize that a professional digital presence is an ongoing project, not a one-time task. The most significant takeaway was learning how these platforms interlink—my GitHub projects can be showcased on LinkedIn to build credibility with future employers. Over the next four years, I plan to use these tools to document my coding journey, contribute to open-source projects, and connect with industry professionals.
