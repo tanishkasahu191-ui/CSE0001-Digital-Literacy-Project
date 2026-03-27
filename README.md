@@ -6,10 +6,10 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This repository contains the five core tasks completed for the **CSE0001 Digital Literacy** course. The project demonstrates a transition from a student to a **Student Digital Ambassador**, focusing on professional identity, technical collaboration, and cyber safety.
 
-## 📂 Folder Structure
+## Folder Structure
 * **[task-1-presentation/](./task-1-presentation/)** - Infographic on Digital Literacy and Visual Hierarchy reflection.
 * **[task-2-portfolio/](./task-2-portfolio/)** - Professional profiles on GitHub, LinkedIn, and Stack Overflow/Kaggle.
 * **[task-3-platforms/](./task-3-platforms/)** - HackerRank coding success and Google Forms collaboration quiz.
@@ -17,7 +17,7 @@ This repository contains the five core tasks completed for the **CSE0001 Digital
 * **[task-5-cybercrime/](./task-5-cybercrime/)** - UPI Fraud Case Study and Prevention Checklist (Helpline 1930).
 * **[report/](./report/)** - Final consolidated Project Report in PDF format.
 
-## 🛠️ Tools & Platforms Used
+##  Tools & Platforms Used
 * **Design:** Canva / Piktochart
 * **Development:** GitHub, HackerRank
 * **Professional:** LinkedIn
@@ -25,4 +25,4 @@ This repository contains the five core tasks completed for the **CSE0001 Digital
 * **Security:** National Cyber Crime Reporting Portal
 
 ---
-© 2026 Tanishka Sahu | VIT Bhopal University
+Tanishka Sahu | VIT Bhopal University
